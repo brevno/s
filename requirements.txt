@@ -1,0 +1,10 @@
+aiosqlite==0.20.0
+alembic==1.13.2
+fastapi==0.114.2
+httpx==0.27.2
+pkgsettings==1.1.0
+pytest==8.3.3
+settings-vial==0.4.0
+sqlalchemy==2.0.34
+uvicorn==0.15.0
+xxhash==3.5.0

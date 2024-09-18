@@ -1,0 +1,43 @@
+.App {
+  font-size: 1.2em;
+  text-align: center;
+}
+
+.input-container {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.App span {
+  margin-right: 10px;
+}
+
+.App input {
+  font-size: 1.2em;
+  padding: 10px;
+  width: 60%;
+  box-sizing: border-box;
+  border-radius: 8px;
+}
+
+.App button {
+  font-size: 1.2em;
+  padding: 10px 20px;
+  margin-left: 15px;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+.App .shortlink {
+    margin-top: 20px;
+    display: block;
+}
+
+.error {
+  color: red;
+  font-size: 0.9em;
+  margin-top: 5px;
+  display: block;
+}

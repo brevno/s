@@ -1,0 +1,7 @@
+database:
+  host: localhost
+  port: 5432
+  username: ${DB_USERNAME}
+  password: ${DB_PASSWORD}
+  engine: postgresql  # Change to sqlite to switch
+  name: mydatabase.db  # Only used for SQLite
